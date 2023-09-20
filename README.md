@@ -30,3 +30,7 @@ The dataset reveals that a small handful of microbial species (also called opera
   - The colors of the bubbles are based on `otu_ids`, and the hover text is the `otu_labels`
 
 ## Credits
+  - Python Tutorial. (n.d.). https://www.w3schools.com/python/<br>
+  - Stack Overflow - Where Developers Learn, Share, & Build Careers. (n.d.). Stack Overflow. https://stackoverflow.com/<br>
+  - Plotly https://plotly.com/javascript/<br>
+  - Starter code given from bootcamp class and instructions<br>
