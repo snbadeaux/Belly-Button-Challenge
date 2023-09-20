@@ -89,7 +89,7 @@ function buildCharts(sample, data) {
       }];
 
       let barlayout = {
-        title: "Top 10 Sample Values",
+        title: "Top 10 Microbial Species Present",
         titlefont: "Arial"
       };
   
